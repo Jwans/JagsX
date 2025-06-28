@@ -1,0 +1,2 @@
+# JagsX
+Advanced bot
